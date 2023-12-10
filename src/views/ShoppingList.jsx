@@ -1,4 +1,4 @@
-npm ruimport { Card, List, Button, Modal, Input } from "antd";
+import { Card, List, Button, Modal, Input } from "antd";
 import { useState , useEffect } from "react";
 
 import mockData from '../mock/shoppingList'
